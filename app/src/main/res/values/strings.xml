@@ -4,4 +4,7 @@
     <string name="delete">Delete</string>
     <string name="edit">Edit</string>
     <string name="btn_save">Save</string>
+    <string name="topic">Add topic name</string>
+    <string name="refresh">Refresh file</string>
+    <string name="addText">Write text here</string>
 </resources>
